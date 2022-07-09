@@ -1,0 +1,87 @@
+.border-0{
+    background-color: white !important;
+}
+.container-fluid{
+    padding-left: 0px !important;
+    padding-right: 0px !important;
+}
+.my-color-white{
+    color: white !important;
+}
+table th{
+    height: 150%;
+}
+table td{
+    height: 200% !important;
+}
+.my-ml{
+    margin-left: .1em !important;
+}
+.table td img{
+    width: 100px;
+    height: 100px;
+    border-radius: 0%;
+}
+.w-14{
+    width: 14px !important;
+}
+.menu-title:hover{
+    color: white !important;
+}
+.nav-hover:hover{
+    background-color: #414147 !important;
+    color: white !important;
+}
+.nav-hover:hover p{
+    color: white !important;
+}
+.nav-hover:hover span{
+    color: white !important;
+}
+.nav-hover:hover svg{
+    color: white !important;
+}
+.size-modal{
+    max-width: 900px !important;
+}
+.overflow-scroll-my{
+    height: 380px;
+    overflow: scroll;
+}
+.overflow-scroll-my::-webkit-scrollbar {
+    display: none;
+}
+.mb-10{
+    margin-bottom: 10px!important;
+}
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+.upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+.modal-image img{
+    width: 210px !important;
+    height: 230px !important;
+}
+.modal.fade{
+    background: rgba(0,0,0,0.5) !important;
+}
+.modal{
+    overflow-y: auto ;
+}
+.modal-image1 img{
+    width: 300px !important;
+    height: auto !important;
+    border-radius: 50%;
+}
+/* .carousel-inner img{
+    width: 350px !important;
+    height: 300px !important;
+} */

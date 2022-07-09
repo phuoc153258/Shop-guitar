@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/responsive.css">
+<link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+  integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w=="
+  crossorigin="anonymous" referrerpolicy="no-referrer" /> <!-- owl stylesheets -->
+<link rel="stylesheet" href="css/owl.carousel.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
+  media="screen">
+<style>
+/* Style the buttons */
+.btn {
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  background-color: #f1f1f1;
+  cursor: pointer;
+  font-size: 18px;
+}
+
+/* Style the active class, and buttons on mouse-over */
+.active, .btn:hover {
+  background-color: #666;
+  color: white;
+}
+</style>
+</head>
+<body>
+  <div class="container my-container">
+    <div class="row" id="get-bank">
+      <div class="col-4">
+        <div class="card mb-3 bank" style="max-width: 18rem;" id="7" onclick="SetIdBank(7)">
+          <div class="card-header active id="bank7">EximBank</div>
+          <div class="card-body d-flex">
+            <img src="https://file.vfo.vn/hinh/2017/07/logo-eximbank.png" class="img-pay" alt="">
+            <b>1.000.000VNĐ</b>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="card mb-3 bank" style="max-width: 18rem;" id="7" onclick="SetIdBank(7)">
+          <div class="card-header" id="bank7">EximBank</div>
+          <div class="card-body d-flex">
+            <img src="https://file.vfo.vn/hinh/2017/07/logo-eximbank.png" class="img-pay" alt="">
+            <b>1.000.000VNĐ</b>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="card mb-3 bank" style="max-width: 18rem;" id="7" onclick="SetIdBank(7)">
+          <div class="card-header" id="bank7">EximBank</div>
+          <div class="card-body d-flex">
+            <img src="https://file.vfo.vn/hinh/2017/07/logo-eximbank.png" class="img-pay" alt="">
+            <b>1.000.000VNĐ</b>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="card mb-3 bank" style="max-width: 18rem;" id="7" onclick="SetIdBank(7)">
+          <div class="card-header" id="bank7">EximBank</div>
+          <div class="card-body d-flex">
+            <img src="https://file.vfo.vn/hinh/2017/07/logo-eximbank.png" class="img-pay" alt="">
+            <b>1.000.000VNĐ</b>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+<button onclick="a()">A</button>
+<script>
+function a(){
+var header = document.getElementById("get-bank");
+var btns = header.getElementsByClassName("card-header");
+console.log(header)
+console.log(btns)
+for (let index = 0; index < btns.length; index++) { 
+    if(btns[index].classList.contains("active")){
+      console.log("DSAD")
+    }  
+}
+}
+</script>
+
+</body>
+</html>

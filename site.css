@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin:wght@500&family=Lato&display=swap');
+
+.input-group{
+    padding-left: 1em;
+}
+.navbar{
+    font-size: 1em !important;
+}
+.btn-details{
+    text-align: center;
+}
+.lorem_text
+{
+    font-family: 'Cabin';
+}
+.shoes_price
+{
+    font-size: 1.2em;
+}
+.shoes_icon
+{
+    width: 100% !important;
+    height: 80% !important;
+}
+.best_text
+{
+    font-size: 2em;
+}
+.guitar-text{
+    font-size: 40px; 
+    font-weight: bold;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+.guitar-choice{
+    display: flex;
+
+}
+.guitar-choice select{
+    margin-left: .5em;
+    
+}
+.guitar-choice label{   
+    font-size: 1.5em;
+    margin-top: auto;
+    margin-bottom: auto;
+    color: white;
+}
+
+.space-charater{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.guitar-find{
+    display: flex;
+    height: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-right: 20px;
+}
+.guitar-find select{
+    float: right;
+}
+.guitar-find label{
+    font-size: 1em;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: .2em;
+}
+
+.modal.fade{
+    background: rgba(0,0,0,0.5) !important;
+}
+.btn
+{
+    margin-left: 5px !important;
+    margin-right: 5px !important;
+}
+.modal{
+    overflow-y: auto ;
+}
+.custom-select{
+    margin-top: auto !important;
+    margin-bottom: auto !important;
+}
+.collection_textt{ 
+    width: 100%; 
+    float: left; 
+    color: black; 
+    text-align: center; 
+    font-weight: bold; 
+    font-size: 40px; 
+    background-color: #eeeee4;
+    padding: 30px 0px;  
+}
+.card-body img{
+    padding-bottom: 1em;
+}
+.card-body {
+    text-align: center;
+}
+.upload-btn-wrapper {
+    position: relative;
+    overflow: hidden;
+    display: inline-block;
+  }
+.upload-btn-wrapper input[type=file] {
+    font-size: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+}
+.card-body a{
+    text-align: left;
+}
+.table thead{
+   background-color: gray;
+    color: white;
+}.nav-link:hover{
+    color: green    ;
+}
+.table tr{
+    font-size: .9em;
+}
+.table img{
+    width: 70%;
+}
+.table input{
+    width: 45%;
+}
+.profile-link{
+    display: flex;
+    color: black;
+    margin-left: 5em;
+    margin-top: -4em;
+    margin-bottom: 1em;
+    font-size: 1.2em;
+}
+.profile-link-1{
+    color: black;
+}
+.mt-my
+{
+    margin-top: -2em;
+}
+.w-my{
+    width: 150% !important;
+}
+
+.input-field {
+    max-width: 380px;
+    width: 100%;
+    background-color: #f0f0f0;
+    margin: 10px 0;
+    height: 55px;
+    border-radius: 55px;
+    display: grid;
+    grid-template-columns: 15% 85%;
+    padding: 0 0.4rem;
+    position: relative;
+  }
+  
+  .input-field i {
+    text-align: center;
+    line-height: 55px;
+    color: #acacac;
+    transition: 0.5s;
+    font-size: 1.1rem;
+  }
+  
+  .input-field input {
+    background: none;
+    outline: none;
+    border: none;
+    line-height: 1;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
+  .input-field input::placeholder {
+    color: #aaa;
+    font-weight: 500;
+  }
+  .ml-my-1{
+      margin-left: -.2em;
+  }
+  .ml-my{
+      margin-left: 4.8em;
+  }
+  .dropdown-item:hover{
+      color: #fd4d5a
+      ;
+  }
+  .fas{
+      position: relative;
+  }
+  .mr-my-2{
+      margin-right: -3.7em;
+  }
+  .w-my-1{
+      width: 150% !important;
+  }
+  .mt-my-1{
+    margin-top: .15em;
+  }
+  .swal-icon img{
+    width: 120px;
+    height: 120px;
+  }
+  .my-modal{
+      margin: 0;
+      color: black;
+  }
+  .my-padding{
+      float: left;
+      padding-right: 2em;
+      margin-top: -10em;
+  }
+.form-group {
+    margin-bottom: 0px;
+}
+.col-form-label{
+    text-align: right;
+}
+hr {
+    margin-top:0px !important; 
+    margin-bottom: 0px !important;
+}
+.my-w{
+    width: 10% !important;
+}
+.table {
+    margin-bottom: 10px;
+}
+.my-container{
+    padding: 20px 20px 10px 20px;
+    width: 65%;
+    background-color: white;
+    box-shadow: 0 2px 5px 0 rgb(26 39 66 / 30%);
+    margin-top: 20px;
+    border-radius: .5em;
+}
+.my-color{
+    background-color: #c69f9d
+    ;
+}
+.card-body b{
+    margin: 5px 0px 0px 10px;
+    font-size: 15px;
+
+}
+.card-body img{
+    max-width: 100%px ;
+}
+/* .bank:hover{
+    background-color: #fff6e1;
+} */
+.collection_section{
+    background-color: #c7a696;
+    padding-bottom: 30px;
+}
+.img-pay{
+    width: 60px !important;
+    height: 40px !important;
+}
+.active1{
+    background-color: #666;
+    color: white;
+  }

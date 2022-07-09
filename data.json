@@ -1,0 +1,684 @@
+{
+  "Guitars": [
+    {
+      "Images": [
+        "https://tongkhonhaccu.com/Data/upload/images/Product/Guitar/Badon/j260/dan-guitar-acoustic-j260.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/badon/j260/dan_guitar_acoustic_j260_2x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/upload/images/Product/Guitar/Badon/j260/dan-guitar-acoustic-j260-3.jpg",
+        "https://tongkhonhaccu.com/Data/upload/images/Product/Guitar/Badon/j260/dan-guitar-acoustic-j260-4.jpg"
+      ],
+      "Name": "Guitar Acoustic Ba Đờn J260",
+      "Price": "3200000",
+      "Brand": {
+        "id": 1,
+        "Name": "Ba Đờn"
+      },
+      "Origin": "Việt Nam",
+      "BodyShape": "D Khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Sitka nguyên tấm",
+      "Slide": "Gỗ Hồng Đào Cao Cấp nguyên tấm",
+      "Back": "Gỗ Hồng Đào Cao Cấp nguyên tấm",
+      "Neck": "Gỗ Cẩm Lai",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "Name": "Guitar Acoustic Ba Đờn Taylor Beveled T450",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/badon/t450/dan_guitar_acoustic_ba_don_t450_1_01_png_01x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/upload/images/Product/Guitar/Badon/t450/t450-1.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/badon/t450/dan_guitar_acoustic_ba_don_t450_3x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/badon/t450/dan_guitar_acoustic_ba_don_t450_5x500x500x4.jpg"
+      ],
+      "Price": "5200000",
+      "Brand": {
+        "id": "1",
+        "Name": "Ba Đờn"
+      },
+      "Origin": "Việt Nam",
+      "BodyShape": "A Khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Sitka nguyên tấm",
+      "Slide": "Gỗ Hồng Đào Bắc Phi",
+      "Back": "Gỗ Hồng Đào Bắc Phi",
+      "Neck": "Gỗ Giá Tỵ"
+    },
+    {
+      "id": 3,
+      "Name": "Guitar Acoustic Ba Đờn Taylor T350",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/upload/images/Product/Guitar/Badon/T350/dan-guitar-acoustic-ba-don-t350-1-01.png",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/badon/t350/t350x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/badon/t350/dan_guitar_acoustic_ba_don_t350_4x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/badon/t350/dan_guitar_acoustic_ba_don_t350_3x500x500x4.jpg"
+      ],
+      "Price": "3700000",
+      "Brand": {
+        "id": "1",
+        "Name": "Ba Đờn"
+      },
+      "Origin": "Việt Nam",
+      "BodyShape": "A Khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Sitka nguyên tấm",
+      "Slide": "Gỗ Hồng Đào Cao Cấp nguyên tấm",
+      "Back": "Gỗ Hồng Đào Cao Cấp nguyên tấm",
+      "Neck": "Gỗ Giá Tỵ"
+    },
+    {
+      "id": 4,
+      "Name": "Guitar Acoustic Thuận Guitar AT-04LMT",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/thuanguitar/at04-lmt/dan_guitar_acoustic_thuan_04lmtx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/thuanguitar/at04-lmt/dan_guitar_acoustic_thuan_04lmt_1x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/thuanguitar/at04-lmt/dan_guitar_acoustic_thuan_04lmt_2x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/thuanguitar/at04-lmt/dan_guitar_acoustic_thuan_04lmt_3x500x500x4.jpg"
+      ],
+      "Price": "7200000",
+      "Brand": {
+        "id": "2",
+        "Name": "Thuận Guitar"
+      },
+      "Origin": "Việt Nam",
+      "BodyShape": "A",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Sitka 3A Nguyên Tấm",
+      "Slide": "Solid African Mahogany",
+      "Back": "Solid African Mahogany",
+      "Neck": "Mahogany"
+    },
+    {
+      "id": 5,
+      "Name": "Guitar Acoustic Thuận Guitar AT-02LMT",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/thuanguitar/at02lmt/dan_guitar_acoustic_thuan_at02lmtx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/thuanguitar/at02lmt/dan_guitar_acoustic_thuan_at02lmt_1x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/thuanguitar/at02lmt/dan_guitar_acoustic_thuan_at02lmt_2x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/thuanguitar/at02lmt/dan_guitar_acoustic_thuan_at02lmt_3x500x500x4.jpg"
+      ],
+      "Price": "5000000",
+      "Brand": {
+        "id": "2",
+        "Name": "Thuận Guitar"
+      },
+      "Origin": "Việt Nam",
+      "BodyShape": "A",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Sitka nguyên tấm",
+      "Slide": "Solid mahogany",
+      "Back": "Solid mahogany",
+      "Neck": "Solid mahogany"
+    },
+    {
+      "id": 6,
+      "Name": "Guitar Acoustic Epiphone PRO-1 VS",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/epiphone/pro-1-vs/dan_guitar_epiphone_pro_1_vs_00x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/epiphone/pro-1-vs/dan_guitar_epiphone_pro_1_vs_04x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/epiphone/pro-1-vs/dan_guitar_epiphone_pro_1_vs_05x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/upload/images/Product/Guitar/Epiphone/pro-1-vs/dan-guitar-epiphone-pro-1-vs-01.jpg"
+      ],
+      "Price": "3100000",
+      "Brand": {
+        "id": "3",
+        "Name": "Epiphone"
+      },
+      "Origin": "USA",
+      "BodyShape": "D đầy",
+      "TrussRod": "Có",
+      "Top": "Gỗ thông",
+      "Slide": "Gỗ gụ",
+      "Back": "Gỗ gụ",
+      "Neck": "Okoume"
+    },
+    {
+      "id": 7,
+      "Name": "Guitar Acoustic Mantic AG370C",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/ag-370c/dan_guitar_acoustic_mantic_ag_370c_2x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/ag-370c/dan_guitar_acoustic_mantic_ag_370c_1x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/ag-370c/dan_guitar_acoustic_mantic_ag_370c_4x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/upload/images/Product/Guitar/ManticSaga/ag-370c/dan-guitar-acoustic-mantic-ag-370c-6.jpg"
+      ],
+      "Price": "2100000",
+      "Brand": {
+        "id": "4",
+        "Name": "Mantic"
+      },
+      "Origin": "Trung Quốc",
+      "BodyShape": "D khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Englemann Ép",
+      "Slide": "Gỗ Xoan Đào Ép",
+      "Back": "Gỗ Xoan Đào Ép",
+      "Neck": "Gỗ Okoume"
+    },
+    {
+      "id": 8,
+      "Name": "Guitar Acoustic Mantic GT-1GC",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/gt-1gc/dan_guitar_acoustic_gt1_gcx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/gt-1gc/dan_guitar_acoustic_gt1_gc_1x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/gt-1gc/dan_guitar_acoustic_gt1_gc_3x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/gt-1gc/dan_guitar_acoustic_gt1_gc_2x500x500x4.jpg"
+      ],
+      "Price": "1800000",
+      "Brand": {
+        "id": "4",
+        "Name": "Mantic"
+      },
+      "Origin": "Trung Quốc",
+      "BodyShape": "A khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Englemann",
+      "Slide": "Gỗ Okoume",
+      "Back": "Gỗ Okoume",
+      "Neck": "Gỗ Okoume"
+    },
+    {
+      "id": 9,
+      "Name": "Guitar Acoustic Morrison MGW 10CBKEQ",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/tintuc/tin%20t%E1%BB%A9c%20c%C3%B4ng%20ty/tet-tan-suu/dan_guitar_acoustic_morrison_405cbkeq_khuyen_mai_tet_tan_suux500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/morrison/10cbks/405cbkeq_g_1x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/morrison/405solid/dan_guitar_morrison_405cbk_g_solidtop_3x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/morrison/405solid/dan_guitar_acoustic_morrison_405bk_5x500x500x4.jpg"
+      ],
+      "Price": "2300000",
+      "Brand": {
+        "id": "5",
+        "Name": "Morrison"
+      },
+      "Origin": "Trung Quốc",
+      "BodyShape": "A khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Vân Sam",
+      "Slide": "Gỗ Sapele",
+      "Back": "Gỗ Sapele",
+      "Neck": "Gỗ Okoume"
+    },
+    {
+      "id": 10,
+      "Name": "Guitar Acoustic Saga SF700C",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/sf700ce/dan_guitar_acoustic_SF700C_1x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/sf700ce/dan_guitar_acoustic_SF700C_2x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/sf700ce/dan_guitar_acoustic_SF700C_3x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/sf700ce/dan_guitar_acoustic_SF700C_4x500x500x4.jpg"
+      ],
+      "Price": "3500000",
+      "Brand": {
+        "id": "6",
+        "Name": "Saga"
+      },
+      "Origin": "Trung Quốc",
+      "BodyShape": "A khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Englemann Nguyên Tấm",
+      "Slide": "Gỗ Xoan Đào",
+      "Back": "Gỗ Xoan Đào",
+      "Neck": "Gỗ Hồng Đào"
+    },
+    {
+      "id": 11,
+      "Name": "Guitar Acoustic Saga LS-1C",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/Dan_Guitar_Acoustic_Saga_LS_1C_01_wm0x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/Dan_Guitar_Acoustic_Saga_LS_1C_03_wmx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/Dan_Guitar_Acoustic_Saga_LS_1C_04_wmx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/Dan_Guitar_Acoustic_Saga_LS_1C_05_wmx500x500x4.jpg"
+      ],
+      "Price": "5100000",
+      "Brand": {
+        "id": "6",
+        "Name": "Saga"
+      },
+      "Origin": "Trung Quốc",
+      "BodyShape": "A khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Englemann Nguyên Tấm",
+      "Slide": "Gỗ Xoan Đào Ép",
+      "Back": "Gỗ Xoan Đào Ép",
+      "Neck": "Gỗ Gụ"
+    },
+    {
+      "id": 12,
+      "Name": "Guitar Acoustic Saga D10SC",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/anh-dai-dien-moi/dan_guitar_acoustic_d10sc_2x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/Dan_Guitar_Acoustic_Saga_D10SC_02_wmx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/Dan_Guitar_Acoustic_Saga_D10SC_09_wmx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/manticsaga/Dan_Guitar_Acoustic_Saga_D10SC_10_wmx500x500x4.jpg"
+      ],
+      "Price": "4500000",
+      "Brand": {
+        "id": "6",
+        "Name": "Saga"
+      },
+      "Origin": "Trung Quốc",
+      "BodyShape": "D khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông Sitka nguyên tấm",
+      "Slide": "Gỗ Gụ Ép",
+      "Back": "Gỗ Gụ Ép",
+      "Neck": "Gỗ Gụ"
+    },
+    {
+      "id": 13,
+      "Name": "Guitar Acoustic Yamaha FG830",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/yamaha/fg830/dan_guitar_acoustic_yamaha_FG830x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/yamaha/fg830/dan_guitar_acoustic_yamaha_fg830_gia_re_mau_tobaco_brown_sunburstx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/yamaha/fg830/dan_guitar_acoustic_yamaha_fg830_gia_re_mau_sunburstx500x500x4.jpg",
+        "https://img.youtube.com/vi/eNyDlUkOvsw/0.jpg"
+      ],
+      "Price": "8650000",
+      "Brand": {
+        "id": "7",
+        "Name": "Yamaha"
+      },
+      "Origin": "Indonesia",
+      "BodyShape": "D đầy",
+      "TrussRod": "Có",
+      "Top": "Vân Sam Nguyên Miếng",
+      "Slide": "Gỗ Cẩm Lai",
+      "Back": "Gỗ Cẩm Lai",
+      "Neck": "Gỗ Nato"
+    },
+    {
+      "id": 14,
+      "Name": "Guitar Acoustic Poshman N11ACEQ",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/poshman/n11ac/anh_bia_dan_guitar_acoustic_poshman_n11ac_eqx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/poshman/n11ac/anh_chinh_dien_dan_guitar_acoustic_poshman_n11aceqx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/poshman/n11ac/anh_lung_dan_guitar_acoustic_poshman_n11aceqx500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/poshman/n11ac/dau_can_dan_guitar_acoustic_poshman_n11acx500x500x4.jpg"
+      ],
+      "Price": "3200000",
+      "Brand": {
+        "id": "8",
+        "Name": "Poshman"
+      },
+      "Origin": "Taiwan",
+      "BodyShape": "A khuyết",
+      "TrussRod": "Có",
+      "Top": "Gỗ Thông",
+      "Slide": "Mahogany",
+      "Back": "Mahogany",
+      "Neck": "Gỗ gụ"
+    },
+    {
+      "id": 15,
+      "Name": "Guitar Acoustic Stagg SA35 DS-N",
+      "Images": [
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/stagg/sa35%20ds-bk/dan_guitar_acoustic_stagg_SA35_DS_N_1x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/stagg/sa35%20ds-bk/dan_guitar_acoustic_stagg_SA35_DS_N_4x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/stagg/sa35%20ds-bk/dan_guitar_acoustic_stagg_SA35_DS_N_5x500x500x4.jpg",
+        "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/stagg/sa35%20ds-bk/dan_guitar_acoustic_stagg_SA35_DS_N_2x500x500x4.jpg"
+      ],
+      "Price": "3000000",
+      "Brand": {
+        "id": "9",
+        "Name": "Stagg"
+      },
+      "Origin": "Bỉ",
+      "BodyShape": "D",
+      "TrussRod": "Có",
+      "Top": "Gỗ Trầm",
+      "Slide": "Gỗ tổng hợp",
+      "Back": "Gỗ tổng hợp",
+      "Neck": "Gỗ tổng hợp"
+    },
+    {
+      "Images": [
+        null,
+        null,
+        null,
+        null
+      ],
+      "Name": "dsadsa",
+      "Price": "123",
+      "Brand": {
+        "id": 1,
+        "Name": "Ba Đờn"
+      },
+      "Origin": "dsadsa",
+      "BodyShape": "dsadsa",
+      "TrussRod": "dsadsa",
+      "Top": "dsadsad",
+      "Slide": "",
+      "Back": "",
+      "Neck": "",
+      "id": 16
+    }
+  ],
+  "Brands": [
+    {
+      "id": 1,
+      "Name": "Ba Đờn"
+    },
+    {
+      "id": 2,
+      "Name": "Thuận Guitar"
+    },
+    {
+      "id": 3,
+      "Name": "Epiphone"
+    },
+    {
+      "id": 4,
+      "Name": "Mantic"
+    },
+    {
+      "id": 5,
+      "Name": "Morrison"
+    },
+    {
+      "id": 6,
+      "Name": "Saga"
+    },
+    {
+      "id": 7,
+      "Name": "Yamaha"
+    },
+    {
+      "id": 8,
+      "Name": "Poshman"
+    },
+    {
+      "id": 9,
+      "Name": "Stagg"
+    },
+    {
+      "id": 10,
+      "Name": "Taylor"
+    },
+    {
+      "id": 11,
+      "Name": "Takamine"
+    },
+    {
+      "id": 12,
+      "Name": "Fender"
+    },
+    {
+      "id": 13,
+      "Name": "Other"
+    }
+  ],
+  "Users": [
+    {
+      "Username": "admin",
+      "Email": "Adminn@gmail.com",
+      "Password": "admin",
+      "Name": "Admin",
+      "Avatar": "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/stagg/sa35%20ds-bk/dan_guitar_acoustic_stagg_SA35_DS_N_2x500x500x4.jpg",
+      "Role": "admin",
+      "Wallet": 15999864700000,
+      "id": 1
+    },
+    {
+      "Wallet": 9100000,
+      "Name": "User",
+      "Username": "user",
+      "Password": "user",
+      "Email": "User@gmail.com",
+      "Avatar": "https://tongkhonhaccu.com/Data/ResizeImage/data/upload/images/product/guitar/stagg/sa35%20ds-bk/dan_guitar_acoustic_stagg_SA35_DS_N_2x500x500x4.jpg",
+      "Role": "user",
+      "id": 2
+    },
+    {
+      "Username": "phuoc",
+      "Email": "phuoc@gmail.com",
+      "Password": "1",
+      "Name": "phuoc",
+      "Avatar": "",
+      "Role": "admin",
+      "Wallet": 800000,
+      "id": 3
+    },
+    {
+      "Username": "phuoc1",
+      "Email": "phuoc1@gmail.com",
+      "Password": "1",
+      "Name": "phuoc1",
+      "Avatar": "",
+      "Wallet": 0,
+      "Role": "user",
+      "id": 4
+    }
+  ],
+  "Session": [
+    {
+      "id": 1,
+      "userid": 1
+    }
+  ],
+  "Carts": [
+    {
+      "UserID": "1",
+      "ProductID": [
+        1
+      ],
+      "id": "1"
+    },
+    {
+      "UserID": "2",
+      "ProductID": [],
+      "id": "2"
+    },
+    {
+      "UserID": "3",
+      "ProductID": [],
+      "id": "3"
+    },
+    {
+      "ProductID": [],
+      "UserID": 4,
+      "id": "aSCr8ww"
+    },
+    {
+      "ProductID": [],
+      "UserID": 5,
+      "id": "1vEFDdG"
+    },
+    {
+      "ProductID": [],
+      "UserID": 6,
+      "id": "Ld9XY7U"
+    }
+  ],
+  "History": [
+    {
+      "UserID": "1",
+      "Details": [
+        {
+          "id": 1,
+          "ProductID": [
+            1,
+            2
+          ],
+          "date": "1/1/2000",
+          "PaymentStatus": "paid",
+          "Name": "DH01"
+        },
+        {
+          "ProductID": [
+            2
+          ],
+          "date": "18/7/2021",
+          "PaymentStatus": "paid",
+          "Name": "DH00109",
+          "id": 2
+        },
+        {
+          "ProductID": [
+            3
+          ],
+          "date": "18/7/2021",
+          "PaymentStatus": "paid",
+          "Name": "DH47319",
+          "id": 3
+        },
+        {
+          "ProductID": [
+            2,
+            1,
+            3,
+            1,
+            1
+          ],
+          "date": "25/7/2021",
+          "PaymentStatus": "paid",
+          "Name": "DH91340",
+          "id": 4
+        },
+        {
+          "ProductID": [
+            3,
+            2,
+            2,
+            2
+          ],
+          "date": "9/8/2021",
+          "PaymentStatus": "paid",
+          "Name": "DH12331",
+          "id": 5
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "UserID": "2",
+      "Details": [],
+      "id": "2"
+    },
+    {
+      "UserID": "3",
+      "Details": [
+        {
+          "ProductID": [
+            1
+          ],
+          "date": "31/7/2021",
+          "PaymentStatus": "paid",
+          "Name": "DH28204",
+          "id": 1
+        }
+      ],
+      "id": "3"
+    },
+    {
+      "Details": [],
+      "UserID": 4,
+      "id": "vEiEjSI"
+    },
+    {
+      "Details": [],
+      "UserID": 5,
+      "id": "VueARgL"
+    },
+    {
+      "Details": [],
+      "UserID": 6,
+      "id": "IEJo-tT"
+    }
+  ],
+  "Bank": [
+    {
+      "id": 1,
+      "name": "BIDV",
+      "image": "https://brasol.vn/public/uploads/1521199129-brasol.vn-logo-bidv-ngan-hang-dau-tu-va-phat-trien-viet-nam-bidv-logo-without-artboard.png"
+    },
+    {
+      "id": 2,
+      "name": "MB Bank",
+      "image": "https://static.wixstatic.com/media/9d8ed5_bd5482630d7947c38891d0ff53728d22~mv2.png/v1/fill/w_900,h_437,al_c/9d8ed5_bd5482630d7947c38891d0ff53728d22~mv2.png"
+    },
+    {
+      "id": 3,
+      "name": "VietcomBank",
+      "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Vietcombank_logo.svg/1200px-Vietcombank_logo.svg.png"
+    },
+    {
+      "id": 4,
+      "name": "TechcomBank",
+      "image": "https://vanhoasaigon.com/wp-content/uploads/2018/03/techcombank.png"
+    },
+    {
+      "id": 5,
+      "name": "ACB",
+      "image": "data:image/png;base64,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"
+    },
+    {
+      "id": 6,
+      "name": "VietinBank",
+      "image": "https://thienthoi.com.vn/wp-content/uploads/2020/09/thienthoi-85.png"
+    },
+    {
+      "id": 7,
+      "name": "EximBank",
+      "image": "https://file.vfo.vn/hinh/2017/07/logo-eximbank.png"
+    }
+  ],
+  "Recharge": [
+    {
+      "UserID": 1,
+      "History": [
+        {
+          "BankID": 1,
+          "id": 1,
+          "Date": "1/1/2001",
+          "Money": 1000000,
+          "Name": "Recharge01"
+        },
+        {
+          "Date": "1/8/2021",
+          "Money": 1000000,
+          "BankID": "3",
+          "id": 2,
+          "Name": "Recharge02"
+        },
+        {
+          "Date": "1/8/2021",
+          "Money": 1000000,
+          "BankID": "4",
+          "id": 3,
+          "Name": "Recharge03"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "UserID": 2,
+      "History": [
+        {
+          "Date": "1/8/2021",
+          "Money": 1000000,
+          "BankID": "7",
+          "id": 1,
+          "Name": "Recharge04"
+        },
+        {
+          "Date": "1/8/2021",
+          "Money": 1000000,
+          "BankID": "5",
+          "Name": "Recharge04497",
+          "id": 2
+        }
+      ],
+      "id": 2
+    },
+    {
+      "id": 3,
+      "UserID": 3,
+      "History": []
+    },
+    {
+      "id": 4,
+      "UserID": 4,
+      "History": []
+    }
+  ]
+}
